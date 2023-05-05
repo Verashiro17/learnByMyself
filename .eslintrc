@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "max-len": ["error", 140],
+    "react/jsx-wrap-multilines": "off",
+    "react/default-props-match-prop-types": "off",
+    "no-param-reassign": "off",
+    "consistent-return": "warn",
+    "react/jsx-filename-extension": "off",
+    "import/no-unresolved": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "webpack": {
+        "config": "webpack.config.js"
+      }
+    }
+  }
+}
