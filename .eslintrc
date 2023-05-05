@@ -6,7 +6,8 @@
     "no-param-reassign": "off",
     "consistent-return": "warn",
     "react/jsx-filename-extension": "off",
-    "import/no-unresolved": "off"
+    "import/no-unresolved": "off",
+    "indent": ["error",4]
   },
   "settings": {
     "import/resolver": {
